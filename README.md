@@ -17,7 +17,7 @@
 ### :warning: Conceitos importantes:
 
 - Primary Key: A chave primária é o que torna a linha ou o registro de uma tabela únicos.
-
+- Foreign Key: A chave estrangeira define um relacionamento entre tabelas, comumente chamado de integridade referencial. Esta regra baseia-se no fato de que uma chave estrangeira em uma tabela é a chave primária em outra.
 
 ### :round_pushpin: Para se lembrar:
  - Os tipos data são tratados de formas distintas por cada banco de dados, portanto sempre conheça os padrões do banco que irá usar;
